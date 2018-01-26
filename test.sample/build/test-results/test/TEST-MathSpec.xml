@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MathSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-01-26T04:24:08" hostname="K-ATIF-L1" time="0.059">
+  <properties/>
+  <testcase name="maximum between 1 and 3 is 3" classname="MathSpec" time="0.057"/>
+  <testcase name="maximum between 7 and 4 is 7" classname="MathSpec" time="0.0"/>
+  <testcase name="maximum between 0 and 0 is 0" classname="MathSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
